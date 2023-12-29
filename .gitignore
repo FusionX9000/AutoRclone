@@ -23,3 +23,6 @@ accounts600.zip
 !credentials/.keep
 !accounts/.keep
 # !controller/.keep
+
+.venv
+.DS_Store
